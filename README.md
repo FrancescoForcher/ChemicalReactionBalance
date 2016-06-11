@@ -1,6 +1,6 @@
 # Chimica
 
-A program to balance a chemical reaction (in italian).
+A program to balance a chemical reaction (in italian). It uses regular expressions to transform the equation to a linear system resolved with Gauss-Jordan.
 
 # Instruction
 * Execute the .jar file, for example with: `java -jar ./Chimica.jar`
