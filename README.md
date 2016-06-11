@@ -2,7 +2,7 @@
 
 A program to balance a chemical reaction (in italian). It uses regular expressions to transform the equation to a linear system resolved with Gauss-Jordan.
 
-# Instruction
+# Instructions
 * Execute the .jar file, for example with: `java -jar ./Chimica.jar`
 * Write in the upper text field a reaction, like `H2+O2=H2O` or `Mn(NO3)2+PbO2+HNO3=Pb(NO3)2+HMnO4+H2O`
 * Click `Bilancia reazione` and see the result in the lower text field.
