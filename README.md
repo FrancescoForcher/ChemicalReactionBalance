@@ -6,7 +6,7 @@ A program to balance a chemical reaction (in italian). It uses regular expressio
 * Execute the .jar file, for example with: `java -jar ./Chimica.jar`
 * Write in the upper text field a reaction, like `H2+O2=H2O` or `Mn(NO3)2+PbO2+HNO3=Pb(NO3)2+HMnO4+H2O`
 * Click `Bilancia reazione` and see the result in the lower text field.
-* Ionic reaction are written with a fake element Cc which is the electric charge, and can have a negative stoichiometric index if is a negative ion.
+* Ionic reaction are written with a fake element Cc which is the electric charge, and can have a negative stoichiometric index if it is a negative ion.
     Examples:
     * Cr2O7-- + NH3 + H+ = Cr+++ + N2 + H2O -> `Cr2O7Cc-2 + NH3 + HCc = CrCc3 + N2 + H2O`
     * MnO3 + Fe++ + H+ = Mn++ + Fe+++ + H2O -> `MnO3+FeCc2+HCc=MnCc2+FeCc3+H2O`
